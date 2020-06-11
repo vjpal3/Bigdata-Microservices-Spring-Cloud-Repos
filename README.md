@@ -2,7 +2,7 @@
 _Spring Boot, Spring Cloud, Python and Netflix OSS (Eureka, Zuul, Ribbon, Hystrix, Sidecar) based Architecture to create REST services that are highly scalable, performant and secured with Spring Security_
 
 - ### [Bigdata File Import Microservice](https://github.com/vjpal3/bigdata-import-microservice)
-  - A Spring Boot service that imports data from a CSV file (about 6 million records) to a PostgreSQL database using Spring Batch, Spring Data JPA-Hibernate and uses Java Multi-threading techniques for optimized  performance.   
+  - A Spring Boot service that imports data from a CSV file (about 6 million records) to a PostgreSQL database using Spring Batch, Spring Data JPA-Hibernate and uses Java Multi-threading techniques as well as asynchronous operations for optimized  performance.   
 
 - ### [Auth Microservice](https://github.com/vjpal3/spring-security-microservice)
   - A Spring Boot service with REST API that leverages Spring Security using JWT web tokens
