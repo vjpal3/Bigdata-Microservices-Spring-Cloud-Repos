@@ -30,6 +30,7 @@ _Spring Boot, Spring Cloud, Python and Netflix OSS (Eureka, Zuul, Ribbon, Hystri
   - Spring Security with JSON Web Token
   - Spring Batch with MultiResourcePartitioner to process multiple files concurrently
   - Spring Data JPA-Hibernate
+  - Maven
   - PostgreSQL
   - Netflix OSS (Eureka, Zuul, Ribbon, Hystrix, Sidecar)
   - Spring cloud OpenFeign
