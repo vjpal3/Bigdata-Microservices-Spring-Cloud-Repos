@@ -9,7 +9,7 @@ _Spring Boot, Spring Cloud, Python and Netflix OSS (Eureka, Zuul, Ribbon, Hystri
   - Provides exception handling for invalid username/password and duplicate username
 
 - ### [Fraud-detection Python Microservice](https://github.com/vjpal3/Fraud-Detection-PythonML-Service)
-  - This Python microservice builds a fraud detection model using Logistic Regression machine learning Algorithm to predict fradulent and non-fradulent transactions 
+  - This Python microservice builds a fraud detection model using Logistic Regression machine learning algorithm to predict fradulent and non-fradulent transactions 
   - Works on a financial data set having over 6 million data points
   - Calculates statistics such as Accuracy, Precision and Recall  
 
