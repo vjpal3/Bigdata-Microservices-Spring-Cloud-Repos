@@ -34,5 +34,5 @@ _Spring Boot, Spring Cloud, Python and Netflix OSS (Eureka, Zuul, Ribbon, Hystri
   - Netflix OSS (Eureka, Zuul, Ribbon, Hystrix, Sidecar)
   - Spring cloud OpenFeign
   - JasperReports
-  - Python (Pandas, Numpy, SciKit-Learn) 
-  - Flask
+  - Python (Pandas, Numpy, SciKit-Learn) and Flask
+  - REST API
